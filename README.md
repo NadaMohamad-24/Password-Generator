@@ -9,7 +9,7 @@ A modern Password Generator built with Python and CustomTkinter.
 - Copy password to clipboard
 - Password history
 - Clear history
-- Modern Dark UI
+- Modern Dark UI 
 - Light/Dark Theme
 
 ## 🛠 Technologies
